@@ -1,0 +1,15 @@
+{
+  "name": "resp_shots",
+  "version": "0.1.0",
+  "description": "A simple way to make responsive screenshots at various viewports.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devin Clark",
+  "license": "BSD-2-Clause",
+  "repo": "https://github.com/DevinClark/resp_shots.git",
+  "dependencies": {
+    "casper": "~0.1.1"
+  }
+}
